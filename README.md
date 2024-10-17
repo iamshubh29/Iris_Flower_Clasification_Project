@@ -1,4 +1,4 @@
-# Iris_Flower_Clasification_Project
+# Iris-Flower Clasification Project
 
 ## Project Overview
 This project trains a K-Nearest Neighbors classifier on the **Iris dataset** to predict the species of iris flowers based on sepal and petal measurements. The model is built using Python and several libraries including `pandas`, `seaborn`, `matplotlib`, and `scikit-learn`.
