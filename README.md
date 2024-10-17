@@ -1,10 +1,16 @@
 # Iris_Flower_Clasification_Project
 
-## Project Description
-The **Iris Flower Classification** project focuses on developing a machine learning model to classify iris flowers into their respective species based on specific measurements. Iris flowers are classified into three species: **setosa**, **versicolor**, and **virginica**, each of which exhibits distinct characteristics in terms of measurements. The model aims to automate the classification process, offering a practical solution for identifying iris species based on sepal length, sepal width, petal length, and petal width.
-
 ## Project Overview
 This project trains a K-Nearest Neighbors classifier on the **Iris dataset** to predict the species of iris flowers based on sepal and petal measurements. The model is built using Python and several libraries including `pandas`, `seaborn`, `matplotlib`, and `scikit-learn`.
+
+![](https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png)
+
+Image Courtesy: https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png
+
+
+
+## Project Description
+The **Iris Flower Classification** project focuses on developing a machine learning model to classify iris flowers into their respective species based on specific measurements. Iris flowers are classified into three species: **setosa**, **versicolor**, and **virginica**, each of which exhibits distinct characteristics in terms of measurements. The model aims to automate the classification process, offering a practical solution for identifying iris species based on sepal length, sepal width, petal length, and petal width.
 
 
 ## Dataset Description
@@ -15,8 +21,6 @@ The **Iris dataset** consists of 150 records of iris flowers, each with four fea
 - **Sepal Width** (cm)
 - **Petal Length** (cm)
 - **Petal Width** (cm)
-
-Image Courtesy: https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png
 
 The dataset has three classes (species of iris flowers):
 - `Iris-setosa`
