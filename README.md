@@ -39,12 +39,11 @@ The goal is to predict the species of the iris flower based on the four features
 ## Prediction
 
 Once the model is trained, it is used to predict the class of flowers in the test set. Predictions are made using the `predict()` method.
-Additionally, predictions for new data points can also be made.
+- Additionally, predictions for new data points can also be made.
 
 ## Results
 
 The performance of the model is evaluated using a **classification report**, which provides metrics like precision, recall, F1-score, and accuracy.
 
-Visualizations are created to inspect the data and the model's performance.
 
 
